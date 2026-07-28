@@ -1,7 +1,3 @@
-# Movie-recommender-system-tmdb-dataset
-A content-based Movie Recommendation System developed using Python and Streamlit. The application recommends similar movies based on movie metadata and cosine similarity, while also displaying movie posters fetched from the TMDB API. The project demonstrates data preprocessing, feature engineering, machine learning, and interactive web application development.
-
-
 # 🎬 Movie Recommendation System
 
 ## Overview
